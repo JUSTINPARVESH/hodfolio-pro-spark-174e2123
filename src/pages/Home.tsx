@@ -24,7 +24,7 @@ export default function Home() {
               Professor, Electronics & Communication Engineering
             </p>
             <p className="mb-8 text-lg text-muted-foreground">
-              Ph.D., M.E., B.E. | Gnanamani College of Technology
+              BE., M.E., Ph.D. | Selvam College of Technology
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <Button asChild size="lg">
