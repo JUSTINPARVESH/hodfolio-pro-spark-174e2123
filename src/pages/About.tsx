@@ -27,13 +27,13 @@ export default function About() {
 
   const experience = [
     {
-      position: "Professor",
-      institution: "Gnanamani College of Technology",
+      position: "Professor and Head of Department",
+      institution: "Selvam College of Technology",
       period: "January 2024 - Present",
     },
     {
-      position: "Professor and Head of Department",
-      institution: "Selvam College of Technology",
+      position: "Professor",
+      institution: "Gnanamani College of Technology",
       period: "June 2016 - March 2023",
       duration: "6 years 9 months",
     },
